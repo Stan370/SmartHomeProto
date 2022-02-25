@@ -6,7 +6,7 @@
 我们的智能家居模式的亮点在于，它可以帮助用户实现更加 方便和简化的生活方式，并能实现防盗功能，此外，它还能对移动端口进行远程监控。 
 
 ###description
-IX Home prototype is a brand that was established in 2021 to provide smart home services and 
+Smarthome prototype is a brand that was established in 2021 to provide smart home services and 
 sell intelligent furniture . Our corporate vision is to make everyone’s home simplified. It is
 designed and established by Group 9. The name, IX Home uses Roman numerals to 
 represent the Group 9, and we can also think of X as a multiplication symbol, meaning "my 
