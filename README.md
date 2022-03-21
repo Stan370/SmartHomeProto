@@ -4,6 +4,9 @@
 门窗开关检测、灯光控制装置、防盗检测装置、遮光和光照检测装置，并可将房间动态数据上传到数据访问软件。
 检测装置，并可将房间动态数据上传至数据访问软件，实现远程监控，监测和控制等功能。
 我们的智能家居模式的亮点在于，它可以帮助用户实现更加 方便和简化的生活方式，并能实现防盗功能，此外，它还能对移动端口进行远程监控。 
+![image](https://user-images.githubusercontent.com/56168768/159294868-125a7f7d-2a7d-4930-a0b8-5bc1e6a5b2aa.png)
+![image](https://user-images.githubusercontent.com/56168768/159294886-00458f56-49c3-40bf-8808-f3903f76cca4.png)
+<img width="840" alt="image" src="https://user-images.githubusercontent.com/56168768/159294961-959bc43f-2a99-4a73-b520-69e72a8e836b.png">
 
 ###description
 Smarthome prototype is a brand that was established in 2021 to provide smart home services and 
