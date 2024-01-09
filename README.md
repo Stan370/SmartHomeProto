@@ -29,9 +29,9 @@ The highlight of our smart home model is that it can help users to achieve a mor
 convenient and simplified lifestyle to the maximum extent, and can also realize the anti-theft function, in addition, it can also remote mobile port monitoring, can give users a sense of security and comfort. At the same time, we also attach great importance to user privacy 
 and pursue coordination of public values. 
 
-- • 使用Spring Data JPA 和Hibernate 实现数据访问层以与MySQL 数据库通信。
-- • 利用RXTX库下的蓝牙串行协议与硬件通信，实时更新温度和湿度等传感器状态（温度、湿度）并监控服务器端的响应
-- • 根据接收的状态码使用Ajax异步刷新网页信息 利用SQL DB 存储家庭信息，并利用ECC算法加密敏感密码
+-  使用Spring Data JPA 和Hibernate 实现数据访问层以与MySQL 数据库通信。
+-  利用RXTX库下的蓝牙串行协议与硬件通信，实时更新温度和湿度等传感器状态（温度、湿度）并监控服务器端的响应
+-  根据接收的状态码使用Ajax异步刷新网页信息 利用SQL DB 存储家庭信息，并利用ECC算法加密敏感密码
 该智能家居模型具有室内温度和湿度检测、门窗开关检测、灯光控制装置、盗窃检测装置、遮光和照明等功能。
 门窗开关检测、灯光控制装置、防盗检测装置、遮光和光照检测装置，并可将房间动态数据上传到数据访问软件。
 检测装置，并可将房间动态数据上传至数据访问软件，实现远程监控，监测和控制等功能。
