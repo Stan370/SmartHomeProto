@@ -1,9 +1,10 @@
-# -prototype-
+# 智能家居监测系统prototype产品设计
 
 ![image](https://user-images.githubusercontent.com/56168768/159294868-125a7f7d-2a7d-4930-a0b8-5bc1e6a5b2aa.png)
 ![image](https://user-images.githubusercontent.com/56168768/159294886-00458f56-49c3-40bf-8808-f3903f76cca4.png)
 <img width="840" alt="image" src="https://user-images.githubusercontent.com/56168768/159294961-959bc43f-2a99-4a73-b520-69e72a8e836b.png">
-###description
+
+## Description
 Smarthome prototype is a brand that was established in 2021 to provide smart home services and 
 sell intelligent furniture . Our corporate vision is to make everyone’s home simplified. It is
 designed and established by Group 9. The name, IX Home uses Roman numerals to 
@@ -28,7 +29,6 @@ The highlight of our smart home model is that it can help users to achieve a mor
 convenient and simplified lifestyle to the maximum extent, and can also realize the anti-theft function, in addition, it can also remote mobile port monitoring, can give users a sense of security and comfort. At the same time, we also attach great importance to user privacy 
 and pursue coordination of public values. 
 
-##智能家居监测系统prototype产品设计
 该智能家居模型具有室内温度和湿度检测、门窗开关检测、灯光控制装置、盗窃检测装置、遮光和照明等功能。
 门窗开关检测、灯光控制装置、防盗检测装置、遮光和光照检测装置，并可将房间动态数据上传到数据访问软件。
 检测装置，并可将房间动态数据上传至数据访问软件，实现远程监控，监测和控制等功能。
