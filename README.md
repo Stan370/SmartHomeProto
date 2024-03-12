@@ -3,6 +3,7 @@
 **Brand Concept:**
 
 The name IX Home, utilizing Roman numerals to represent Group 9, embodies a sense of interconnection and belonging. The 'X' symbolizes multiplication, signifying "my home." In the era of technological advancements, IX Home aims to elevate living standards by integrating technological solutions into everyday life.
+
 ![image](https://user-images.githubusercontent.com/56168768/159294868-125a7f7d-2a7d-4930-a0b8-5bc1e6a5b2aa.png)
 ![image](https://user-images.githubusercontent.com/56168768/159294886-00458f56-49c3-40bf-8808-f3903f76cca4.png)
 
