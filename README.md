@@ -1,12 +1,11 @@
 # IoT Smart home prototype
 
-![image](https://user-images.githubusercontent.com/56168768/159294868-125a7f7d-2a7d-4930-a0b8-5bc1e6a5b2aa.png)
-![image](https://user-images.githubusercontent.com/56168768/159294886-00458f56-49c3-40bf-8808-f3903f76cca4.png)
-<img width="840" alt="image" src="https://user-images.githubusercontent.com/56168768/159294961-959bc43f-2a99-4a73-b520-69e72a8e836b.png">
-
 **Brand Concept:**
 
 The name IX Home, utilizing Roman numerals to represent Group 9, embodies a sense of interconnection and belonging. The 'X' symbolizes multiplication, signifying "my home." In the era of technological advancements, IX Home aims to elevate living standards by integrating technological solutions into everyday life.
+![image](https://user-images.githubusercontent.com/56168768/159294868-125a7f7d-2a7d-4930-a0b8-5bc1e6a5b2aa.png)
+![image](https://user-images.githubusercontent.com/56168768/159294886-00458f56-49c3-40bf-8808-f3903f76cca4.png)
+
 
 **Smart Home Model:**
 
@@ -40,3 +39,4 @@ Utilizing cutting-edge technologies, we've implemented the following:
 **Achievements:**
 
 Our smart home model not only enhances the quality of life through convenience and security but also prioritizes user privacy, aligning with our commitment to public values.
+<img width="840" alt="image" src="https://user-images.githubusercontent.com/56168768/159294961-959bc43f-2a99-4a73-b520-69e72a8e836b.png">
