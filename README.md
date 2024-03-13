@@ -1,4 +1,4 @@
-#IoT Smart home prototype
+# IoT Smart home prototype
 
 **Brand Concept:**
 
