@@ -13,7 +13,7 @@
 </head>
 <body>
 <div class="container right-panel-active">
-    <!-- ×¢²á -->
+    <!-- æ³¨å†Œ -->
     <div class="container_form container--signup">
         <form action="./register" method="get" class="form" id="form1">
             <h2 class="form_title">Sign Up</h2>
@@ -24,7 +24,7 @@
         </form>
     </div>
 
-    <!-- µÇÂ¼ -->
+    <!-- ç™»å½• -->
     <div class="container_form container--signin">
     	<form method="post" action="./login" class="form" id="form2">
             <h2 class="form_title">Sign In</h2>           
@@ -36,7 +36,7 @@
         </form>
     </div>
 
-    <!--¸¡²ã  -->
+    <!--æµ®å±‚  -->
     <div class="container_overlay">
         <div class="overlay">
             <div class="overlay_panel overlay--left">
@@ -49,7 +49,7 @@
     </div>
 </div>
 
-<!-- ±³¾° -->
+<!-- èƒŒæ™¯ -->
 <div class="slidershow">
     <div class="slidershow--image" style="background-image: url('images/login1.jpg')"></div>
     <div class="slidershow--image" style="background-image: url('images/login1.jpg')"></div>

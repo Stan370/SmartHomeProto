@@ -9,7 +9,7 @@
 
 <head>
     <meta charset="UTF-8">
-    <title>×¢²áµÇÂ¼½çÃæ¢ñ</title>
+    <title>æ³¨å†Œç™»å½•ç•Œé¢â… </title>
     <link rel="stylesheet" href="css/login.css"/>
 </head>
 <body>
@@ -17,19 +17,19 @@
 		$(function(){
     $("#login").click(function(){
         if($("#user").val()==""){
-            $("#msg").text("ÇëÊäÈëÓÃ»§Ãû!");
+            $("#msg").text("è¯·è¾“å…¥ç”¨æˆ·å!");
             return false;
         }
         if($("#pass").val()==""){
-            $("#msg").text("ÇëÊäÈëÃÜÂë!");
+            $("#msg").text("è¯·è¾“å…¥å¯†ç !");
             return false;
         }
-        alert("µÇÂ½³É¹¦!");
+        alert("ç™»é™†æˆåŠŸ!");
     })
 })
 	</script>
 <div class="container right-panel-active">
-    <!-- ×¢²á -->
+    <!-- æ³¨å†Œ -->
     <div class="container_form container--signup">
         <form method="post" action="./register" class="form" id="form1" >
             <h2 class="form_title">Sign Up</h2>
@@ -43,7 +43,7 @@
         
     </div>
 
-    <!-- µÇÂ¼ -->
+    <!-- ç™»å½• -->
     <div class="container_form container--signin"id="msg" style="color:red;">&nbsp;
     	<form method="post" action="./login" class="form" id="form2">
             <h2 class="form_title">Sign In</h2>           
@@ -55,7 +55,7 @@
         </form>
     </div>
 
-    <!-- ¸¡²ã -->
+    <!-- æµ®å±‚ -->
     <div class="container_overlay">
         <div class="overlay">
             <div class="overlay_panel overlay--left">
@@ -68,7 +68,7 @@
     </div>
 </div>
 
-<!-- ±³¾° -->
+<!-- èƒŒæ™¯ -->
 <div class="slidershow">
     <div class="slidershow--image" style="background-image: url('images/login1.jpg')"></div>
     <div class="slidershow--image" style="background-image: url('images/login1.jpg')"></div>
