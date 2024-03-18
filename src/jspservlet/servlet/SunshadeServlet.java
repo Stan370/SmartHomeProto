@@ -13,7 +13,7 @@ import javax.servlet.http.HttpServletResponse;
 import jspservlet.dao.db.DbConnector;
 
 public class SunshadeServlet extends HttpServlet {
-
+	
 	public void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 		doPost(request, response);
 	}
