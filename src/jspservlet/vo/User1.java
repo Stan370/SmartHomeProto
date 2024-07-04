@@ -54,4 +54,9 @@ public class User1 implements Serializable {
 	public String getFamily_fid() {
 		return family_fid;
 	}
+
+    public String getSalt() {
+        // TODO Auto-generated method stub
+        throw new UnsupportedOperationException("Unimplemented method 'getSalt'");
+    }
 }
