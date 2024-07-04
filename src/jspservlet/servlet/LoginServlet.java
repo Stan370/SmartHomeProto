@@ -23,15 +23,6 @@ public class LoginServlet extends HttpServlet {
 	public void doPost(HttpServletRequest req, HttpServletResponse res) throws IOException, ServletException {
 		User1 user = new User1(req.getParameter("username"),req.getParameter("password"),"102");
 		Boolean  i = Utility.checkUser(user);
-		//UserDAO dao = new UserDAOImpl();
-//		try {
-//			Boolean b = new Boolean(dao.queryByUsername(user));
-//			flag = (b.equals(false)) ? 0 : 1;
-//			System.out.println(flag);
-//		} catch (Exception e) {
-//			// TODO Auto-generated catch block
-//			e.printStackTrace();
-//		}
 		try{
 			if (i) {
 				HttpSession session = req.getSession();

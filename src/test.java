@@ -73,16 +73,6 @@ public class test {
         } catch (TooManyListenersException e) {
             e.printStackTrace();
         }
-//        try {
-//            SerialPort serialPort = utl.openSerialPort("COM3", 115200);
-//            new Sender(new Control(serialPort)).start();
-//
-//        } catch (NoSuchPortException e) {
-//            e.printStackTrace();
-//        } catch (PortInUseException e) {
-//            e.printStackTrace();
-//        } catch (UnsupportedCommOperationException e) {
-//            e.printStackTrace();
-//        }
+
     }
 }
