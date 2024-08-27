@@ -41,3 +41,4 @@ Utilizing cutting-edge technologies, we've implemented the following:
 
 Our smart home model not only enhances the quality of life through convenience and security but also prioritizes user privacy, aligning with our commitment to public values.
 <img width="840" alt="image" src="https://user-images.githubusercontent.com/56168768/159294961-959bc43f-2a99-4a73-b520-69e72a8e836b.png">
+test
